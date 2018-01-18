@@ -39,7 +39,7 @@ The files
 `blinky_uart_waitevent/inc/ciaaUART.h`
 `blinky_uart_waitevent/inc/ciaaIO.h`
 `blinky_uart_waitevent/src/ciaaIO.c`
-`blinky_uart_waitevent/src/ciaaUART.c
+`blinky_uart_waitevent/src/ciaaUART.c`
  were taken from firmware v2 <https://github.com/ciaa/firmware_v2/> and adapted to this enviroment.
 
 
