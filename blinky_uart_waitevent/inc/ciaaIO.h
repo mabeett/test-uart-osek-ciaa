@@ -61,10 +61,10 @@
 
 #elif (ciaa_nxp == BOARD)
 
-#define LED3    7
-#define LED2    6
-#define LED1    5
-#define LEDB    4
+#define LED3    7 // es  DOUT7
+#define LED2    6 // es  DOUT6
+#define LED1    5 // es  DOUT5
+#define LEDB    4 // es  DOUT4
 #define LEDG    3 // es relay, morirá
 #define	LEDR	2 // es relay, morirá
 
